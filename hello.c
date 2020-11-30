@@ -1,5 +1,6 @@
 #include <stdio.h>
 main()
 {
-	printf("Hello World");
+	printf("\nHello World\n");
+	printf("\nAdding a commit\n");
 }
